@@ -1,0 +1,11 @@
+http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/debris2_blue.png
+http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/nebula_blue.png
+http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/splash.png
+http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/double_ship.png
+http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/shot2.png
+http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/asteroid_blue.png
+http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/explosion_alpha.png
+http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/soundtrack.mp3
+http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/missile.mp3
+http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/thrust.mp3
+http://commondatastorage.googleapis.com/codeskulptor-assets/sounddogs/explosion.mp3
